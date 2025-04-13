@@ -1,0 +1,19 @@
+{
+    "overview": [
+      { "label": "Unresolved", "count": 60 },
+      { "label": "Overdue", "count": 16 },
+      { "label": "Open", "count": 43 },
+      { "label": "On hold", "count": 64 }
+    ],
+    "tickets": {
+      "title": "Unresolved Tickets",
+      "group": "Support",
+      "linkText": "View details",
+      "items": [
+        { "status": "Waiting on Feature Request", "count": "4238" },
+        { "status": "Awaiting Customer Response", "count": "10005" },
+        { "status": "Awaiting Developer Fix", "count": "33m" },
+        { "status": "Pending", "count": "3h 8m" }
+      ]
+    }
+  }  
